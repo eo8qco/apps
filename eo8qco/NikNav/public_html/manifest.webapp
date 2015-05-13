@@ -1,0 +1,14 @@
+{
+  "name": "NikNav",
+  "description": "NikNav",
+  "launch_path": "/index.html",
+  "permissions": {},
+  "developer": {
+    "name": "Gyöngyösi Tamás",
+    "url": "https://github.com/uni-firefoxos"
+  },
+  "icons": {
+    "128": "/img/icon-128.jpg",
+    "512": "/img/icon-512.jpg"
+  }
+}
